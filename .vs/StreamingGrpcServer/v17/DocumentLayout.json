@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\DownloadsFolder\\Samples\\GrpcStreamsSample\\StreamingGrpcServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE624D49-A9E3-4665-8724-CA4224B52A87}|StreamingGrpcServer\\StreamingGrpcServer.csproj|d:\\downloadsfolder\\samples\\grpcstreamssample\\streaminggrpcserver\\streaminggrpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE624D49-A9E3-4665-8724-CA4224B52A87}|StreamingGrpcServer\\StreamingGrpcServer.csproj|solutionrelative:streaminggrpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE624D49-A9E3-4665-8724-CA4224B52A87}|StreamingGrpcServer\\StreamingGrpcServer.csproj|d:\\downloadsfolder\\samples\\grpcstreamssample\\streaminggrpcserver\\streaminggrpcserver\\streaminggrpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AE624D49-A9E3-4665-8724-CA4224B52A87}|StreamingGrpcServer\\StreamingGrpcServer.csproj|solutionrelative:streaminggrpcserver\\streaminggrpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE624D49-A9E3-4665-8724-CA4224B52A87}|StreamingGrpcServer\\StreamingGrpcServer.csproj|d:\\downloadsfolder\\samples\\grpcstreamssample\\streaminggrpcserver\\streaminggrpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE624D49-A9E3-4665-8724-CA4224B52A87}|StreamingGrpcServer\\StreamingGrpcServer.csproj|solutionrelative:streaminggrpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE624D49-A9E3-4665-8724-CA4224B52A87}|StreamingGrpcServer\\StreamingGrpcServer.csproj|d:\\downloadsfolder\\samples\\grpcstreamssample\\streaminggrpcserver\\streaminggrpcserver\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,13 +45,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StreamingGrpcServer.csproj",
               "DocumentMoniker": "D:\\DownloadsFolder\\Samples\\GrpcStreamsSample\\StreamingGrpcServer\\StreamingGrpcServer\\StreamingGrpcServer.csproj",
               "RelativeDocumentMoniker": "StreamingGrpcServer\\StreamingGrpcServer.csproj",
               "ToolTip": "D:\\DownloadsFolder\\Samples\\GrpcStreamsSample\\StreamingGrpcServer\\StreamingGrpcServer\\StreamingGrpcServer.csproj",
               "RelativeToolTip": "StreamingGrpcServer\\StreamingGrpcServer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-06T06:57:51.251Z",
               "EditorCaption": ""
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DownloadsFolder\\Samples\\GrpcStreamsSample\\StreamingGrpcServer\\StreamingGrpcServer\\Program.cs",
               "RelativeDocumentMoniker": "StreamingGrpcServer\\Program.cs",

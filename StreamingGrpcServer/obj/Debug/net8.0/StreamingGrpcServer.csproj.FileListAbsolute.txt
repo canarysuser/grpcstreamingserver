@@ -61,6 +61,7 @@ D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcSe
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\StreamingGrpcServer.AssemblyInfo.cs
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\StreamingGrpcServer.csproj.CoreCompileInputs.cache
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\StreamingGrpcServer.MvcApplicationPartsAssemblyInfo.cache
+D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\StreamingGrpcServer.sourcelink.json
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\staticwebassets.build.json
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\staticwebassets.development.json
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.StreamingGrpcServer.Microsoft.AspNetCore.StaticWebAssets.props
@@ -75,4 +76,3 @@ D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcSe
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\StreamingGrpcServer.pdb
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\StreamingGrpcServer.genruntimeconfig.cache
 D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\ref\StreamingGrpcServer.dll
-D:\DownloadsFolder\Samples\GrpcStreamsSample\StreamingGrpcServer\StreamingGrpcServer\obj\Debug\net8.0\StreamingGrpcServer.sourcelink.json
