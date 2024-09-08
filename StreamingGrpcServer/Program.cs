@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Serilog;
 using StreamingGrpcServer.Services;
 using Serilog.Extensions.Logging;
+using Microsoft.AspNetCore.Server.Kestrel.Core;
 
 namespace StreamingGrpcServer
 {
@@ -20,7 +21,7 @@ namespace StreamingGrpcServer
             builder.WebHost.ConfigureKestrel(options =>
             {
                 //options.ListenLocalhost(5000, e => e.Protocols = Microsoft.AspNetCore.Server.Kestrel.Core.HttpProtocols.Http2);
-                
+                options.ListenAnyIP(8585, o => o.Protocols = HttpProtocols.Http2);
             });
             builder.Services.AddDbContext<ProductsDbContext>(options =>
             {
