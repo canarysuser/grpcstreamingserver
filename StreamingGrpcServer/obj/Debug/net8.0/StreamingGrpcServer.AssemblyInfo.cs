@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StreamingGrpcServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4ab05721865d4dcc972d7c0e3a0cedfc5ff6584")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36689bc65c8aa8e997fed1ad977bd10f73137b22")]
 [assembly: System.Reflection.AssemblyProductAttribute("StreamingGrpcServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StreamingGrpcServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
