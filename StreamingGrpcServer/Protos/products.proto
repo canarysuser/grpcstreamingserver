@@ -1,0 +1,27 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace="ProductServices.Streaming.Demo"; 
+package ProductStreamingDemo;
+
+service ProductService {
+  rpc UnaryProductListing(google.protobuf.Empty) returns (ProductListing);
+  rpc UnaryGetProductDetails(DetailsInput) returns (Product);
+  rpc GetProductListSS(google.protobuf.Empty) returns(stream ProductListing);
+  rpc GetProductListCS(stream DetailsInput) returns (ProductListing);
+  rpc GetProductsBoth(stream DetailsInput) returns (stream Product);
+
+}
+message DetailsInput{
+    int32 product_id=1;
+}
+message Product {
+    int32 product_id=1;
+    string product_name=2;
+    google.protobuf.Timestamp updateTime=3;
+}
+message ProductListing {
+    repeated Product products=1;
+}
+
